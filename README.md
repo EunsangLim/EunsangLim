@@ -1,11 +1,13 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
-### Hi, I am Eunsang Lim.
+Hi, I am Eunsang Lim.
+
 I am a AI data scientist using python.
+
 So, I am pythonista.
+
 I love python so much.
+
 I love programming.
 
 <!--
