@@ -10,6 +10,15 @@ I love python so much.
 
 I love programming.
 
+### I can speak..
+
+- Korean
+- English
+- Chinese
+- Japanese
+- python
+- java
+- javascript
 <!--
 **EunsangLim/EunsangLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
