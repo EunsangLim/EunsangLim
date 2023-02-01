@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+### Hi, I am Eunsang Lim.
+I am a AI data scientist using python.
+So, I am pythonista.
+I love python so much.
+I love programming.
+
 <!--
 **EunsangLim/EunsangLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
